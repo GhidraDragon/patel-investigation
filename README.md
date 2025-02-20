@@ -1,4 +1,6 @@
 3.	A deliberately “dumber” network can shift outputs away from correctness and define an accuracy function that dips below zero, with loss growing polynomially at each iteration.
+
+https://boshang9.wordpress.com/blog/
     
     https://www.youtube.com/watch?v=enZ_UXXUV7w
 
